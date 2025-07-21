@@ -1,0 +1,274 @@
+{
+  "My_doctors": [
+   
+    {
+      "id": 1,
+      "name": "Dr. Sarah Johnson",
+      "specialty": "Cardiologist",
+      "experience_years": 12,
+      "patient_stories": 75
+    },
+    {
+      "id": 2,
+      "name": "Dr. Ahmed El-Khatib",
+      "specialty": "Dermatologist",
+      "experience_years": 8,
+      "patient_stories": 49
+    },
+    {
+      "id": 3,
+      "name": "Dr. Emily Chen",
+      "specialty": "Pediatrician",
+      "experience_years": 10,
+      "patient_stories": 82
+    },
+    {
+      "id": 4,
+      "name": "Dr. John Smith",
+      "specialty": "Orthopedic Surgeon",
+      "experience_years": 15,
+      "patient_stories": 60
+    },
+    {
+      "id": 5,
+      "name": "Dr. Fatima Al-Najjar",
+      "specialty": "Neurologist",
+      "experience_years": 9,
+      "patient_stories": 36
+    },
+    {
+      "id": 6,
+      "name": "Dr. Carlos Martinez",
+      "specialty": "Endocrinologist",
+      "experience_years": 11,
+      "patient_stories": 27
+    },
+    {
+      "id": 7,
+      "name": "Dr. Amina Yusuf",
+      "specialty": "Gynecologist",
+      "experience_years": 13,
+      "patient_stories": 90
+    },
+    {
+      "id": 8,
+      "name": "Dr. Brian Lee",
+      "specialty": "Oncologist",
+      "experience_years": 16,
+      "patient_stories": 54
+    },
+    {
+      "id": 9,
+      "name": "Dr. Lina Haddad",
+      "specialty": "Rheumatologist",
+      "experience_years": 7,
+      "patient_stories": 17
+    },
+    {
+      "id": 10,
+      "name": "Dr. Omar Al-Sayegh",
+      "specialty": "Urologist",
+      "experience_years": 10,
+      "patient_stories": 43
+    }
+  ],
+  "favorite_doctors": [
+    {
+      "id": "2",
+      "name": "Dr. Ahmed El-Khatib",
+      "category": "Dermatologist",
+      "experience_years": 8,
+      "rating": 4.5,
+      "review": "Explains everything clearly and offers great treatment options."
+    },
+    {
+      "id": "3",
+      "name": "Dr. Emily Chen",
+      "category": "Pediatrician",
+      "experience_years": 10,
+      "rating": 4.9,
+      "review": "Fantastic with kids, very gentle and friendly."
+    },
+    {
+      "id": "4",
+      "name": "Dr. John Smith",
+      "category": "Orthopedic Surgeon",
+      "experience_years": 15,
+      "rating": 4.6,
+      "review": "Skilled surgeon with excellent post-op support."
+    },
+    {
+      "id": "5",
+      "name": "Dr. Fatima Al-Najjar",
+      "category": "Neurologist",
+      "experience_years": 9,
+      "rating": 4.7,
+      "review": "Listens carefully and provides thorough explanations."
+    },
+    {
+      "id": "6",
+      "name": "Dr. Carlos Martinez",
+      "category": "Endocrinologist",
+      "experience_years": 11,
+      "rating": 4.4,
+      "review": "Helped manage my diabetes very effectively."
+    },
+    {
+      "id": "7",
+      "name": "Dr. Amina Yusuf",
+      "category": "Gynecologist",
+      "experience_years": 13,
+      "rating": 4.9,
+      "review": "Extremely compassionate and professional."
+    },
+    {
+      "id": "8",
+      "name": "Dr. Brian Lee",
+      "category": "Oncologist",
+      "experience_years": 16,
+      "rating": 4.6,
+      "review": "Supportive and informative throughout the treatment."
+    },
+    {
+      "id": "9",
+      "name": "Dr. Lina Haddad",
+      "category": "Rheumatologist",
+      "experience_years": 7,
+      "rating": 4.3,
+      "review": "Helped me manage chronic joint pain effectively."
+    },
+    {
+      "id": "10",
+      "name": "Dr. Omar Al-Sayegh",
+      "category": "Urologist",
+      "experience_years": 10,
+      "rating": 4.5,
+      "review": "Professional and clear communicator."
+    },
+    {
+      "id": "11",
+      "name": "Dr. Julia Walker",
+      "category": "Psychiatrist",
+      "experience_years": 14,
+      "rating": 4.8,
+      "review": "Made me feel comfortable and understood."
+    },
+    {
+      "id": "12",
+      "name": "Dr. Rami Issa",
+      "category": "Pulmonologist",
+      "experience_years": 9,
+      "rating": 4.4,
+      "review": "Helped improve my asthma significantly."
+    },
+    {
+      "id": "13",
+      "name": "Dr. Chloe Nguyen",
+      "category": "ENT Specialist",
+      "experience_years": 6,
+      "rating": 4.2,
+      "review": "Quick diagnosis and effective treatment."
+    },
+    {
+      "id": "14",
+      "name": "Dr. Yusuf Malik",
+      "category": "Hematologist",
+      "experience_years": 12,
+      "rating": 4.7,
+      "review": "Expert in blood disorders and very friendly."
+    },
+    {
+      "id": "15",
+      "name": "Dr. Nada Suleiman",
+      "category": "Ophthalmologist",
+      "experience_years": 11,
+      "rating": 4.6,
+      "review": "Efficient and caring during my eye surgery."
+    }
+  ],
+  "patient_records": [
+    {
+      "id": 1,
+      "name": "Ali Kareem",
+      "created_at": "2025-07-20T10:15:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Sara Abdullah",
+      "created_at": "2025-07-19T08:30:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Mohammed Nasser",
+      "created_at": "2025-07-18T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Layla Hamdan",
+      "created_at": "2025-07-17T09:45:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Zaid Al-Amin",
+      "created_at": "2025-07-16T14:20:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Yasmin Fadel",
+      "created_at": "2025-07-15T11:05:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Khalid Sami",
+      "created_at": "2025-07-14T15:10:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Hanan Jamal",
+      "created_at": "2025-07-13T13:40:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Tariq Hassan",
+      "created_at": "2025-07-12T16:25:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Reem Zaki",
+      "created_at": "2025-07-11T09:50:00Z"
+    },
+    {
+      "id": 11,
+      "name": "Mona Taleb",
+      "created_at": "2025-07-10T08:20:00Z"
+    },
+    {
+      "id": 12,
+      "name": "Omar Saeed",
+      "created_at": "2025-07-09T10:55:00Z"
+    },
+    {
+      "id": 13,
+      "name": "Nour Adel",
+      "created_at": "2025-07-08T12:35:00Z"
+    },
+    {
+      "id": 14,
+      "name": "Firas Mahmoud",
+      "created_at": "2025-07-07T14:45:00Z"
+    },
+    {
+      "id": 15,
+      "name": "Dana Salim",
+      "created_at": "2025-07-06T11:15:00Z"
+    },
+    {
+      "id": "89f8"
+    },
+    {
+      "id": 20,
+      "name": "mai",
+      "created_at": "2025-07-21T11:15:00Z"
+    }
+  ]
+}
